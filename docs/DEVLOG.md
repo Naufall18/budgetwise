@@ -1,1 +1,2 @@
 - 2026-04-18 docs: expand readme (24177)
+- 2026-04-21 perf: avoid rebuilds (30544)
