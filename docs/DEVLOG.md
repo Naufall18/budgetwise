@@ -5,3 +5,4 @@
 - 2026-04-30 docs: note follow-ups (2497)
 - 2026-05-01 chore: bump metadata (13914)
 - 2026-05-06 docs: expand readme (25330)
+- 2026-05-12 refactor: extract helper (5833)
