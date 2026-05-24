@@ -11,3 +11,4 @@
 - 2026-05-15 refactor: extract helper (19420)
 - 2026-05-22 style: tweak padding (10067)
 - 2026-05-22 chore: cleanup (7391)
+- 2026-05-24 style: tweak padding (26750)
