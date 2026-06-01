@@ -17,3 +17,4 @@
 - 2026-05-26 fix: guard empty title (4983)
 - 2026-05-27 chore: bump metadata (30494)
 - 2026-05-30 style: polish colors (21659)
+- 2026-06-01 style: card spacing (24395)
