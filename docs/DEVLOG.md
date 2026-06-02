@@ -18,3 +18,4 @@
 - 2026-05-27 chore: bump metadata (30494)
 - 2026-05-30 style: polish colors (21659)
 - 2026-06-01 style: card spacing (24395)
+- 2026-06-02 docs: expand readme (20954)
