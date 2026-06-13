@@ -25,3 +25,4 @@
 - 2026-06-09 refactor: extract helper (8705)
 - 2026-06-11 refactor: rename locals (28563)
 - 2026-06-12 style: tweak padding (1467)
+- 2026-06-13 style: card spacing (4242)
