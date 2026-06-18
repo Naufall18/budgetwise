@@ -29,3 +29,4 @@
 - 2026-06-15 style: tweak padding (13100)
 - 2026-06-16 docs: expand readme (28526)
 - 2026-06-18 docs: note follow-ups (5668)
+- 2026-06-18 docs: note follow-ups (1563)
