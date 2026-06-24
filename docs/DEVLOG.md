@@ -31,3 +31,4 @@
 - 2026-06-18 docs: note follow-ups (5668)
 - 2026-06-18 docs: note follow-ups (1563)
 - 2026-06-23 docs: update devlog (19346)
+- 2026-06-24 docs: note follow-ups (8446)
