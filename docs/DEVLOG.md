@@ -38,3 +38,4 @@
 - 2026-06-27 perf: avoid rebuilds (11543)
 - 2026-06-27 docs: update devlog (2535)
 - 2026-07-03 style: polish colors (29253)
+- 2026-07-03 chore: bump metadata (15298)
