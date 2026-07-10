@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
 import '../data/repo.dart';
 import '../config.dart';
+import '../utils/money.dart';
 import 'category_chart.dart';
 
 class SummaryScreen extends StatelessWidget {
@@ -23,11 +24,11 @@ class SummaryScreen extends StatelessWidget {
               _tile(context, AppConfig.flagLabel, repo.flagged.length.toString()),
             if (AppConfig.usesValue) ...[
               _tile(context, 'Total ${AppConfig.valueLabel}',
-                  repo.total.toStringAsFixed(0)),
+                  formatRupiah(repo.total)),
               _tile(context, '${AppConfig.flagLabel} ${AppConfig.valueLabel}',
-                  repo.flagTotal.toStringAsFixed(0)),
+                  formatRupiah(repo.flagTotal)),
               _tile(context, 'Balance',
-                  (repo.pendingTotal - repo.flagTotal).toStringAsFixed(0)),
+                  formatRupiah(repo.pendingTotal - repo.flagTotal)),
             ],
             const SizedBox(height: 16),
             Text('By ${AppConfig.categoryLabel}',
