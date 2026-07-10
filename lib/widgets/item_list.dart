@@ -2,6 +2,7 @@ import 'package:flutter/material.dart';
 import '../models/item.dart';
 import '../data/repo.dart';
 import '../config.dart';
+import '../utils/money.dart';
 import 'item_form.dart';
 
 class ItemList extends StatelessWidget {
@@ -72,8 +73,11 @@ class ItemList extends StatelessWidget {
                 subtitle: sub.isEmpty ? null : Text(sub),
                 trailing: AppConfig.usesValue
                     ? Text(
-                        it.value.toStringAsFixed(0),
-                        style: Theme.of(context).textTheme.titleMedium,
+                        formatRupiah(it.value),
+                        style: Theme.of(context).textTheme.titleMedium?.copyWith(
+                              color: it.flag ? Colors.red.shade700 : Colors.green.shade700,
+                              fontWeight: FontWeight.w600,
+                            ),
                       )
                     : const Icon(Icons.chevron_right),
                 onTap: () => _openForm(context, existing: it),
