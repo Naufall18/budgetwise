@@ -4,3 +4,4 @@
 - 2026-07-12: docs: record edge cases to handle [001]
 - 2026-07-12: docs: record edge cases to handle [002]
 - 2026-07-12: docs: expand changelog notes [003]
+- 2026-07-14: docs: record edge cases to handle [000]

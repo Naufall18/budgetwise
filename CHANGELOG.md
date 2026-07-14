@@ -8,3 +8,4 @@ Notable changes to Fintrack.
 - docs: record edge cases to handle (2026-07-12-001)
 - docs: record edge cases to handle (2026-07-12-002)
 - docs: expand changelog notes (2026-07-12-003)
+- docs: record edge cases to handle (2026-07-14-000)
