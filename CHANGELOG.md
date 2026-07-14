@@ -12,3 +12,4 @@ Notable changes to Fintrack.
 - docs: devlog — checked state flow (2026-07-14-001)
 - docs: devlog — checked state flow (2026-07-14-002)
 - style: note spacing adjustments (2026-07-14-003)
+- docs: record edge cases to handle (2026-07-14-004)
