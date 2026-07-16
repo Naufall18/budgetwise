@@ -10,3 +10,4 @@
 - 2026-07-14: style: note spacing adjustments [003]
 - 2026-07-14: docs: record edge cases to handle [004]
 - 2026-07-16: docs: record edge cases to handle [000]
+- 2026-07-16: style: note spacing adjustments [001]

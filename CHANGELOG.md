@@ -14,3 +14,4 @@ Notable changes to Fintrack.
 - style: note spacing adjustments (2026-07-14-003)
 - docs: record edge cases to handle (2026-07-14-004)
 - docs: record edge cases to handle (2026-07-16-000)
+- style: note spacing adjustments (2026-07-16-001)
