@@ -76,3 +76,7 @@ flutter run
 ## 📄 License
 
 MIT © [Naufall18](https://github.com/Naufall18)
+
+## Catatan pemakaian
+
+Catat transaksi harian, cek ringkasan per kategori di tab Summary.
