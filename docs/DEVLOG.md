@@ -17,3 +17,4 @@
 - 2026-07-20: docs: note follow-up ideas [000]
 - 2026-07-20: test: manual QA pass on core flows [001]
 - 2026-07-20: docs: devlog — persistence sanity check [002]
+- 2026-07-20: review readme berpasangan [003]
